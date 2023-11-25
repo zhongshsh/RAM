@@ -40,7 +40,7 @@ CUDA_VISIBLE_DEVICES=1 python run.py --arch ram --dataset cifar100 --block-name 
 |CIFAR100|   74.40 ± 0.34 | 76.74 ± 0.24 |
 |STL10   |   83.78 ± 1.25 | 86.15 ± 0.81 |
 
-Model parameters and training logs on CIFAR100 are placed in the [checkpoints/cifar100](checkpoints/cifar100/ram).
+**Model parameters**  and **training logs** on CIFAR100 are placed in the [checkpoints/cifar100](checkpoints/cifar100/ram).
 
 ## Acknowledgments
 Many thanks to [bearpaw](https://github.com/bearpaw) for his simple and clean [Pytorch framework](https://github.com/bearpaw/pytorch-classification) for image classification task.
